@@ -1,6 +1,7 @@
 # SynonymsRegister
 # Prerequisites
 Java version: 8+
+
 Docker should be running (to create/run mysql image)
 
 # How to access apis
